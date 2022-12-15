@@ -17,7 +17,7 @@ global.wm = 'LuluBotz'
 global.colong1 = 'Ciss 📸'
 global.colong2 = 'XyroStoreシ︎'
 global.kontak2 = [
-['6282214729677', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ tapi jangan aneh² ya anj', true],
+['6285780036817', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ tapi jangan aneh² ya anj', true],
 ]
 
 //Biodata OWNER Bre
