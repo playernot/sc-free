@@ -73,7 +73,7 @@ let duit = `*────── 「 ${wm} 」 ──────*
 │owner chat no dibawah jika berminat.
 └──────━━━━ᑀᑁ
 Contact person Owner:
-wa.me/6282214729677 (Owner)`
+wa.me/6285780036817 (Owner)`
 let imgnya = 'https://telegra.ph/file/116c1a217394d408415c9.jpg'
 conn.sendButtonImg(m.chat, await reSize(imgnya, 200, 200), duit, wm, 'OWNER', '.owner', ftoko, { gifPlayback: true, contextInfo: { externalAdReply: {title: namabot, body: date, sourceUrl: linkyt, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
 }
