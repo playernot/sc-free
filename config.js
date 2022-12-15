@@ -1,21 +1,21 @@
 let fs = require('fs')
 
 //Info maszeh
-global.owner = ["6282214729677"]
-global.mods = ["6282214729677"]
+global.owner = ["6285780036817"]
+global.mods = ["6285894403410"]
 
-global.namabot = 'KaylaBotz-v2' //nama BOT Lu
-global.packname = 'KaylaBotz-v2'
-global.author = '@PutraModz' //nama Owner
-global.ownernya = '6282214729677'
-global.linkyt = 'https://youtu.be/ZPikq1eHf1c' //link yt lu
-global.linkig = 'https://instagram.com/l4c1f2r' //link ig
-global.linkgh = 'https://github.com/Lucife-Putra' //link github lu
-global.titlebot = `⫹⫺ WhatsApp Bot | By PutraModz`
-global.wm2 = 'KaylaBotz-V2' //ganti aja kalau mau
-global.wm = 'KaylaBotz-V2'
+global.namabot = 'LuluBotz' //nama BOT Lu
+global.packname = 'LuluBotz'
+global.author = '@XyroStore' //nama Owner
+global.ownernya = '6285780036817'
+global.linkyt = 'https://youtube.com/@xyrostore3326' //link yt lu
+global.linkig = 'https://instagram.com/xyrostore_real' //link ig
+global.linkgh = 'https://github.com/playernot' //link github lu
+global.titlebot = `⫹⫺ WhatsApp Bot | LuluBotz`
+global.wm2 = 'LuluBotz' //ganti aja kalau mau
+global.wm = 'LuluBotz'
 global.colong1 = 'Ciss 📸'
-global.colong2 = 'PutraModzシ︎'
+global.colong2 = 'XyroStoreシ︎'
 global.kontak2 = [
 ['6282214729677', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ tapi jangan aneh² ya anj', true],
 ]
@@ -25,7 +25,7 @@ global.RL = 'HAMBAH ALLAH' //Nama RL Lu
 global.gender = 'Boys' //jenis kelamin lu
 global.agama = 'islam' //agama lu
 global.age = '18' //usia lu sekarang
-global.kelas = '3 SMK' //kelas lu
+global.kelas = '1 SMK' //kelas lu
 global.hobi = 'Nguli/editing/ngoding/makan/turu' //hobi lu bre
 global.tempat = 'INDONESIA , Jawa Barat, Kuningan' //tempat tinggal lu
 
@@ -87,12 +87,12 @@ global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓.
 
 //========Url Template Buttons=========//
 global.dtu = 'Group bot'
-global.urlnya = "https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff"
+global.urlnya = "https://chat.whatsapp.com/C7dHbNBFXb8ACiguEAgK7L"
 global.versi = '2.0.0'
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 822 1472 9677'
+global.phn = '+62857-8003-6817'
 
 //============= Games ================//
 global.benar = '_*Benar*_✅'
